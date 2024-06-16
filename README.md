@@ -45,7 +45,7 @@ To run this application locally, follow these steps:
 Clone this repository to your local machine.
 bash
 Copy code
-git clone https://github.com/abhi0426/hello-world
+git clone https://github.com/abhi0426/Java_LoginPage
 Open the project in your preferred IDE.
 Build and run the LoginApp.java file located in the src directory.
 Usage
