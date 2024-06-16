@@ -50,7 +50,7 @@ Open the project in your preferred IDE.
 Build and run the LoginApp.java file located in the src directory.
 Usage
 Upon running the application, a login window will appear.
-Enter one of the predefined usernames and passwords (e.g., user:password) to log in.
+Enter one of the predefined usernames and passwords
 Upon successful login, a success message will be displayed.
 Contributing
 Contributions are welcome! If you'd like to add features or improve this project, feel free to fork this repository and submit a pull request. Please open an issue first to discuss what you would like to change.
@@ -58,6 +58,4 @@ Contributions are welcome! If you'd like to add features or improve this project
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
-This application is for educational purposes.
-Inspiration: [Provide any sources or references if applicable.]
+
